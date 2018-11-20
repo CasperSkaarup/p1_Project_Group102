@@ -1,5 +1,5 @@
 
-Images liftImages = new Images();
+
 Slider mySlider;
 
 
